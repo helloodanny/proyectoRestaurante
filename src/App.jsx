@@ -1,7 +1,7 @@
 import './App.css'
 import Footer from './components/Footer'
 import Jumbotron from './components/Jumbotron'
-import Header from './components/header'
+import Header from './components/Header'
 import { useState } from 'react'
 import { db } from './config/database';
 import { collection, addDoc } from "firebase/firestore";
